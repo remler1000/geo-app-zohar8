@@ -5,7 +5,7 @@ import "leaflet/dist/leaflet.css";
 
 const continents = [
   { name: "אסיה", center: [34.0479, 100.6197] },
-  { name: "אירופה", center: [54. 5260, 15.2551] },
+  { name: "אירופה", center: [54.5260, 15.2551] },
   { name: "אפריקה", center: [-8.7832, 34.5085] },
   { name: "אמריקה הצפונית", center: [54.5260, -105.2551] },
   { name: "אמריקה הדרומית", center: [-14.2350, -51.9253] },
